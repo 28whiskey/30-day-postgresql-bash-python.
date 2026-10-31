@@ -1,0 +1,8 @@
+__pycache__/ 
+*.pyc 
+.venv/ 
+.env 
+*.log
+backups/*.dump
+
+#.env will hold your environment variables and should not be committed to version control for security reasons. -NEVER commit passwords
